@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">落樱之刻-序章V1.01</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- 主菜单右侧四个菜单 -->
+    <string name="main_menu_right1">新的人生</string>
+    <string name="main_menu_right2">存档记忆</string>
+    <string name="main_menu_right3">综合设置</string>
+    <string name="main_menu_right4">离开游戏</string>
+    <string name="main_menu_right_tip1">如果人生可以重头开始的话，会怎么样呢...</string>
+    <string name="main_menu_right_tip2">你的人生可以存档！</string>
+    <string name="main_menu_right_tip3">投胎是个技术活</string>
+    <string name="main_menu_right_tip4">~88~</string>
+
+</resources>
